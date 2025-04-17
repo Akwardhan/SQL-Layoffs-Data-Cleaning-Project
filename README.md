@@ -34,6 +34,8 @@ AFTER:
 ### 4. Final Cleaned Data
 ![After Cleaning](https://github.com/Akwardhan/SQL-Data-Cleaning-Project/blob/main/SQL-Data-Cleaning/Screenshots/5_Final_Cleaned%20Dataset.png)
 
+Note: Some null values (e.g., total_laid_off, percentage_laid_off) were retained intentionally, as these rows represent important company records. The missing values couldn’t be imputed reliably without additional external data.
+
 ## SQL Script
 Find the complete SQL code in [SQL_Script.sql](https://github.com/Akwardhan/SQL-Data-Cleaning-Project/blob/main/SQL-Data-Cleaning/Data%20cleaning%20using%20SQL.sql)
 
