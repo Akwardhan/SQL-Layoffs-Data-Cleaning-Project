@@ -19,7 +19,7 @@ The dataset contains 2000+ layoff records from global companies. It was used to 
 ## Key Steps
 
 ### 1. Viewing Raw Data  
-![Raw Data](Screenshots/raw_data.png)
+![Raw Data](SQL-Data-Cleaning/Screenshots/1_Raw Data_Screenshot.png)
 
 ### 2. Identifying Null Values  
 ![Null Values](Screenshots/null_values.png)
