@@ -60,5 +60,5 @@ Find the complete SQL code in [SQL_Script.sql](https://github.com/Akwardhan/SQL-
 ## Author
 **Anmol Kirtiwardhan**  
 
--[LinkedIn](https://www.linkedin.com) 
--[Portfolio](https://your-portfolio.com)
+• [LinkedIn](https://www.linkedin.com) 
+• [Portfolio](https://your-portfolio.com)
