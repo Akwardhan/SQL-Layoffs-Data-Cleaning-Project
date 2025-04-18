@@ -7,6 +7,9 @@ This project showcases a complete data cleaning process using SQL in MySQL Workb
 - MySQL Workbench  
 - SQL (CTEs, Joins, Row Number, and more)
 
+## Language
+- **SQL**
+
 ## Dataset
 The dataset contains 2000+ layoff records from global companies. It was used to demonstrate practical data cleaning techniques.
 
