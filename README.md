@@ -1,4 +1,4 @@
-# SQL Data Cleaning Project
+# SQL Data Cleaning Project -Layoffs Dataset
 
 ## Overview
 This project showcases a complete data cleaning process using SQL in MySQL Workbench on a layoff dataset from global companies.
